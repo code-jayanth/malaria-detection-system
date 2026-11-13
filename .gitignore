@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+.env.*
+
+# Keep example environment file
+!.env.example
+
+# Dataset
+data/
+data_cells/
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# TensorFlow
+logs/
+checkpoints/

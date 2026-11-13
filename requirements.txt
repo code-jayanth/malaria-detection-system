@@ -1,0 +1,5 @@
+streamlit>=1.10.0
+Pillow>=9.0.0
+numpy>=1.23.0
+# Optional (required to run your trained Keras model):
+tensorflow>=2.10.0
